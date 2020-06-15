@@ -5,13 +5,8 @@ This web application is used for Informatics Engineering Official Website at Uni
 ## Getting started
 Download or clone this project by using this command, please make sure to install Git first
 ```
-git clone https://github.com/fukou/kp_amikom.git
+git clone https://github.com/fukou/ti_amikom.git
 
-# move to the directory
-cd kp_amikom
-
-# open the project using Visual Studio Code
-code .
 ```
 
 ## Database
