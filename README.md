@@ -6,7 +6,6 @@ This web application is used for Informatics Engineering Official Website at Uni
 Download or clone this project by using this command, please make sure to install Git first
 ```
 git clone https://github.com/fukou/ti_amikom.git
-
 ```
 
 ## Database
